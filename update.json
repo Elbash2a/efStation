@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/elbash2a/efStation/releases/latest/download/efStation.apk",
+  "dataUrl": "https://github.com/elbash2a/efStation/releases/latest/download/data.zip",
+  "changelog": "• الإصدار الأول من تطبيق efStation",
+  "forceUpdate": false
+}

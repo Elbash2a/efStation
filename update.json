@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 200,
-  "latestVersionName": "2.0.0",
+  "latestVersionCode": 201,
+  "latestVersionName": "2.1.0",
   "forceUpdate": true,
   "updateUrl": "https://t.me/efStation",
   "releaseNotes": "إصدار 2.0.0 الجديد كلياً: نظام استنساخ أسرع وأكثر استقراراً على أندرويد 12 إلى 17 مع مشاركة مجلد الداتا لتوفير المساحة. يجب التحديث للاستمرار."

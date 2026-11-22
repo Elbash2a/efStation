@@ -1,8 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/elbash2a/efStation/releases/latest/download/efStation.apk",
-  "dataUrl": "https://github.com/elbash2a/efStation/releases/latest/download/data.zip",
-  "changelog": "• الإصدار الأول من تطبيق efStation",
-  "forceUpdate": false
+  "latestVersionCode": 200,
+  "latestVersionName": "2.0.0",
+  "forceUpdate": true,
+  "updateUrl": "https://t.me/efStation",
+  "releaseNotes": "إصدار 2.0.0 الجديد كلياً: نظام استنساخ أسرع وأكثر استقراراً على أندرويد 12 إلى 17 مع مشاركة مجلد الداتا لتوفير المساحة. يجب التحديث للاستمرار."
 }
